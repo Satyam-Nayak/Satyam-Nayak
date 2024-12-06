@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyam-Nayak&show_icons=true&locale=en&layout=compact" alt="Satyam-Nayak" /></p>
 
-  <p>&nbsp;<img align="center" width="335" src="https://github-readme-stats.vercel.app/api?username=Satyam-Nayak&show_icons=true&locale=en" alt="Satyam-Nayak" /></p> 
 
 <p><img align="center" width="435" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-Nayak&" alt="Satyam-Nayak" /></p>
 -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyam-Nayak&show_icons=true&locale=en&layout=compact" alt="Satyam-Nayak" /></p>
+
+  <p>&nbsp;<img align="center" width="335" src="https://github-readme-stats.vercel.app/api?username=Satyam-Nayak&show_icons=true&locale=en" alt="Satyam-Nayak" /></p> 
 
