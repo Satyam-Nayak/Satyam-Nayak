@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   <p>&nbsp;<img align="center" width="335" src="https://github-readme-stats.vercel.app/api?username=Satyam-Nayak&show_icons=true&locale=en" alt="Satyam-Nayak" /></p> 
 <p><img align="center" width="435" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-Nayak&" alt="Satyam-Nayak" /></p>
 -->
-
-
 # Hi there, I'm Satyam Nayak! 👋
 
 ## About Me
@@ -55,29 +53,10 @@ I am a passionate software developer with a love for learning new technologies a
 ## 📈 GitHub Stats
 
 ### Top Languages:
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyam-Nayak&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Satyam's Top Languages" height="220" width="450" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyam-Nayak&show_icons=true&locale=en&layout=compact&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Satyam's Top Languages" height="240" width="500" />
 
 ### Overall Stats:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyam-Nayak&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Satyam's Stats" height="250" width="480" />
-
-### Streak Stats:
-<div style="padding: 10px; background: linear-gradient(90deg, rgba(0,255,234,1) 0%, rgba(255,0,242,1) 100%); animation: neon-glow 3s ease-in-out infinite; border-radius: 15px;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-Nayak&theme=radical&background=30,e96443,904e95&ring=ffae00&fire=ffae00&currStreakLabel=ffae00" alt="Satyam's Streak" height="270" width="500" />
-</div>
-
-<style>
-@keyframes neon-glow {
-  0% {
-    box-shadow: 0 0 5px rgba(0, 255, 234, 0.8), 0 0 10px rgba(0, 255, 234, 0.6);
-  }
-  50% {
-    box-shadow: 0 0 15px rgba(255, 0, 242, 0.8), 0 0 20px rgba(255, 0, 242, 0.6);
-  }
-  100% {
-    box-shadow: 0 0 5px rgba(0, 255, 234, 0.8), 0 0 10px rgba(0, 255, 234, 0.6);
-  }
-}
-</style>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyam-Nayak&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Satyam's Stats" height="270" width="540" />
 
 ---
 
@@ -113,6 +92,7 @@ I love playing chess and hiking in my free time!
 ---
 
 Thank you for visiting my profile! Feel free to check out my repositories and contribute to any projects that interest you.
+
 
 
 
