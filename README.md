@@ -49,6 +49,8 @@ I am a passionate software developer with a love for learning and solving challe
 ---
 
 ## 📈 GitHub Stats
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam-Nayak&theme=radical" alt="Satyam's Streak Stats" height="270" width="540" />
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyam-Nayak&show_icons=true&locale=en&layout=compact&theme=radical" alt="Satyam's Top Languages" height="240" width="500" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Satyam-Nayak&show_icons=true&theme=radical" alt="Satyam's Stats" height="270" width="540" />
