@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 About Me  
+<!-- ## 🚀 About Me  
 💡 Passionate software developer who loves solving complex problems and building innovative solutions.  
 🔹 Interested in **Full-Stack Development**, **Web Technologies**, and **Backend Systems**.  
 🔹 Strong focus on writing clean, maintainable, and efficient code.  
@@ -104,6 +104,7 @@ Here are some ideas to get you started:
 ---
 
 🌟 *Thanks for stopping by! Feel free to explore my repositories and connect with me.* 😊  
+-->
 
 
 
