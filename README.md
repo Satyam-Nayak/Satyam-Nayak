@@ -24,9 +24,12 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <b>Passionate Software Developer | Full Stack Enthusiast 🚀</b>
 </p>
+
+### 📊 My GitHub Contribution Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamNayak&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamNayak&bg_color=0f0f0f&color=00ff99&line=00ff99&point=ffffff&area=true&hide_border=true" alt="Satyam Nayak's Contribution Graph"/>
 </p>
+
 ---
 
 <!-- ## 🚀 About Me  
