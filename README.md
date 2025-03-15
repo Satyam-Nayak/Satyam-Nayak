@@ -24,7 +24,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <b>Passionate Software Developer | Full Stack Enthusiast 🚀</b>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SatyamNayak&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
+</p>
 ---
 
 <!-- ## 🚀 About Me  
